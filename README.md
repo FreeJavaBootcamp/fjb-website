@@ -10,7 +10,9 @@ You can find all instructions about getting started with JBake from the [JBake D
 - You must have Java 8 or above installed
 - Install JBake following the documentation link above
 - Clone this repository into your local machine.
-- Navigate to the root of the project and run `jbake -s`
+- Navigate to the root of the project and run `jbake -b`
+- Then run `jbake -s` to start the server.
+- Open your browser to 
 
 ---
 
