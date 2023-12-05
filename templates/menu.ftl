@@ -1,12 +1,9 @@
 <!-- Fixed navbar -->
-    <div class="navbar navbar-default navbar-fixed-top" role="navigation">
+    <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
       <div class="container">
         <div class="navbar-header">
           <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-            <span class="sr-only nav">Toggle navigation</span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
+            <span class="sr-only navbar-toggler-icon"></span>
           </button>
           <a class="navbar-brand" href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>"><img src="./favicon.png" alt="Logo" class="logo" style="height: 30px; width: 30px;"></a>
           <a class="navbar-brand" href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>">Free Java Bootcamp</a>
@@ -22,5 +19,5 @@
           </ul>
         </div><!--/.nav-collapse -->
       </div>
-    </div>
+    </nav>
     <div class="container">
