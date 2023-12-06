@@ -1,3 +1,6 @@
 # IDEA Folders
 **/.idea/ 
 **/.DS_Store
+
+# Ignore output files
+**/output/
