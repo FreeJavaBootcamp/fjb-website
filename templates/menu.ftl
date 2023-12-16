@@ -12,7 +12,7 @@
           <ul class="nav navbar-nav">
             <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>index.html">Home</a></li>
             <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>about.html">About</a></li>
-            <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>index.html">Projects</a></li>
+            <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>projects.html">Projects</a></li>
             <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>workshops.html">Workshops</a></li>
             <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>community.html">Community</a></li>
             <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>contactus.html">Contact Us</a></li>

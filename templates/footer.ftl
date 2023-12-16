@@ -3,7 +3,7 @@
     </div>
     
     <div id="footer">
-      <div class="container d-flex justify-content-center">
+      <div class="container d-flex justify-content-center text-center align-items-center">
         <p class="muted credit">&copy; 2014 | Free Java Bootcamp | Baked with <a href="http://jbake.org">JBake ${version}</a></p>
       </div>
     </div>
