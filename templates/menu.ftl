@@ -5,17 +5,16 @@
           <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
             <span class="sr-only navbar-toggler-icon"></span>
           </button>
-          <a class="navbar-brand" href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>"><img src="./favicon.png" alt="Logo" class="logo" style="height: 30px; width: 30px;"></a>
+          <a class="navbar-brand" href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>"><img src="./favicon.png" alt="Logo" style="height: 25px; width: 25px;"></a>
           <a class="navbar-brand" href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>">Free Java Bootcamp</a>
         </div>
         <div class="navbar-collapse collapse">
           <ul class="nav navbar-nav">
-            <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>index.html">Home</a></li>
             <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>about.html">About</a></li>
-            <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>projects.html">Projects</a></li>
             <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>workshops.html">Workshops</a></li>
+            <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>projects.html">Projects</a></li>
             <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>community.html">Community</a></li>
-            <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>contactus.html">Contact Us</a></li>
+            <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>contactus.html">Contact</a></li>
           </ul>
         </div><!--/.nav-collapse -->
       </div>
