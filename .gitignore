@@ -1,6 +1,10 @@
-# IDEA Folders
-**/.idea/ 
-**/.DS_Store
-
-# Ignore output files
-**/output/
+output/
+.idea/
+*.iml
+*.ipr
+*.iws
+*.log*
+.DS_Store
+/out/
+build/
+target/
