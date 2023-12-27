@@ -50,3 +50,10 @@ body {
 /*code {
   font-size: 80%;
 }*/
+
+<style>
+  .custom-btn {
+    width: 150px;
+    height: 50px;
+  }
+</style>
