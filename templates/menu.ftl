@@ -5,8 +5,8 @@
           <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
             <span class="sr-only navbar-toggler-icon"></span>
           </button>
-          <a class="navbar-brand" href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>"><img src="./favicon.png" alt="Logo" style="height: 25px; width: 25px;"></a>
-          <a class="navbar-brand" href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>">Free Java Bootcamp</a>
+          <a class="navbar-brand" href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>index.html"><img src="./favicon.png" alt="Logo" style="height: 25px; width: 25px;"></a>
+          <a class="navbar-brand" href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>index.html">Free Java Bootcamp</a>
         </div>
         <div class="navbar-collapse collapse">
           <ul class="nav navbar-nav">
