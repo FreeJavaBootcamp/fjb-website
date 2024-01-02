@@ -17,7 +17,7 @@
             </div>
         </div>
         <div class="col-md-6">
-            <img src="home/hero.jpeg" alt="Hero Image" class="img-fluid">
+            <img src="media/hero.jpeg" alt="Hero Image" class="img-fluid">
         </div>
     </div>
  </div>
