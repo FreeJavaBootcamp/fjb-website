@@ -3,8 +3,8 @@
     </div>
     
     <div id="footer">
-      <div class="container">
-        <p class="muted credit">&copy; 2014 | Mixed with <a href="http://getbootstrap.com/">Bootstrap v3.1.1</a> | Baked with <a href="http://jbake.org">JBake ${version}</a></p>
+      <div class="container d-flex justify-content-center text-center align-items-center">
+        <p class="muted credit">&copy; 2024 | Free Java Bootcamp | Baked with <a href="http://jbake.org">JBake ${version}</a></p>
       </div>
     </div>
     
