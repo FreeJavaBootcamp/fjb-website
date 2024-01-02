@@ -38,7 +38,7 @@
                     collaborative learning opportunities. Join us to expand your knowledge and proficiency in Java
                     programming.</p>
                 <a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>workshops.html"
-                   class="btn btn-primary">View Workshops</a>
+                   class="btn btn-primary">View Schedule</a>
             </div>
         </div>
         <div class="col-md-6">
@@ -47,15 +47,12 @@
                     <div class="activity">
                         <h3>Certifications</h3>
                         <p>Complete our workshops and earn free Oracle Java certification vouchers!</p>
-                        <a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>workshops.html"
-                           class="btn btn-primary">Learn More</a>
                     </div>
                 </div>
                 <div class="col-sm-6">
                     <div class="activity">
                         <h3>Jobs</h3>
                         <p>Explore job opportunities in Java programming on our free Java Job Board!</p>
-                        <a href="#" class="btn btn-primary">View Jobs</a>
                     </div>
                 </div>
             </div>
@@ -66,8 +63,8 @@
                         <h3>Open Source</h3>
                         <p>Enhance your skills by contributing to our open source projects at the Free Java
                             Bootcamp!</p>
-                        <a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>projects.html"
-                           class="btn btn-primary">Join Projects</a>
+                        <a href="https://github.com/orgs/FreeJavaBootcamp/repositories" target=_blank
+                           class="btn btn-primary">View Projects</a>
                     </div>
                 </div>
                 <div class="col-sm-6">
